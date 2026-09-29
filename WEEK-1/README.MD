@@ -1,3 +1,3 @@
 
-# Ayrık Matematik
-Bu proje, Ayrık Matematik / Matematiksel Mantık dersi kapsamında hazırlanan soru ve çözümlerden oluşmaktadır. Çalışmada temel olarak önermeler, doğruluk değerleri, bileşik önermeler ve doğruluk tabloları üzerinde durulmuştur.
+# Discrete Mathematics
+This project includes questions and solutions prepared for the Discrete Mathematics / Mathematical Logic course. The study mainly focuses on propositions, truth values, compound propositions, and truth tables.
