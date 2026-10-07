@@ -1,1 +1,2 @@
-
+#DISCRETE MATHEMATICS
+week 2 homework
